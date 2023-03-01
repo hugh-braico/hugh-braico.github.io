@@ -6,10 +6,6 @@ permalink: /:slug
 
 favicon: "./sweet.png" # relative path to site's favicon
 
-twitter:
-    username:
-    card: summary_large_image
-
 theme_config:
   appearance: "dark"
   appearance_toggle: false
