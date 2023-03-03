@@ -1,9 +1,9 @@
 navbar_entries:
-  - title: about
-    url: about
+  - title: mastodon
+    url: https://fosstodon.org/@hughbraico
 
-  - title: blog
-    url: blog
+  - title: github
+    url: https://github.com/hugh-braico
 
 footer_entries:
   - title: mastodon
@@ -11,18 +11,4 @@ footer_entries:
 
   - title: github
     url: https://github.com/hugh-braico
-
-misc_entries:
-  - title: this is an example vertical list
-    url: false
-
-  - title: you can show or hide using a boolean flag in _config.yml
-    url: false
-
-  - title: and you can add data in _data/home.yml
-    url: false
-
-  - title: Blog posts
-    post_list: true
-    url: false
 
