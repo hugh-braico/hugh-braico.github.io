@@ -42,7 +42,7 @@ These things have helped a lot:
 * [Yomichan browser extension](https://addons.mozilla.org/en-US/firefox/addon/yomichan/) - 
   great for looking up unknown words at a glance by just holding Shift and
   mousing over them.
-* [Akebi] (https://play.google.com/store/apps/details?id=com.craxic.akebifree&hl=en_AU&gl=US) -
+* [Akebi](https://play.google.com/store/apps/details?id=com.craxic.akebifree&hl=en_AU&gl=US) -
   I'm sure there are plenty of good Japanese dictionaries on Android but this
   one is pretty good and you can launch it from the context menu after
   highlighting text to quickly look up words.
