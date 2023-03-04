@@ -107,3 +107,5 @@ I'm not going to worry at all about speaking or writing for at least several
 months until I build a strong foundation of comprehension.
 
 See you at the 30 day mark. 👋
+
+[Next update: 1 Month]({% post_url 2023-03-04-learning-jp-day-30 %})

@@ -30,18 +30,20 @@ I'm (about) 30 days into learning Japanese, here's my update.
 
 These things have helped a lot:
 
-* AnkiDroid and AnkiWeb - These rule, being able to sync my Anki progress
-  between desktop and mobile and do them wherever I want is awesome.
-* Anki Review Heatmap extension - If nothing else this thing really makes me
-  want to not break my streak of doing reviews every day. It also gives me a
-  good summary of how many cards I'm looking at every day.
+* [AnkiDroid](https://play.google.com/store/apps/details?id=com.ichi2.anki) +
+  [AnkiWeb](https://ankiweb.net) - These rule, being able to sync my Anki
+  progress between desktop and mobile and do them wherever I want is awesome.
+* [Anki Review Heatmap](https://ankiweb.net/shared/info/1771074083) - If nothing
+  else, this extension really makes me want to not break my streak of doing
+  reviews every day. It also gives me a good summary of how many cards I'm
+  looking at every day.
   
 ![Heatmap](images/anki_streak_day30.png)
 
 * [Yomichan browser extension](https://addons.mozilla.org/en-US/firefox/addon/yomichan/) - 
   great for looking up unknown words at a glance by just holding Shift and
   mousing over them.
-* [Akebi](https://play.google.com/store/apps/details?id=com.craxic.akebifree&hl=en_AU&gl=US) -
+* [Akebi](https://play.google.com/store/apps/details?id=com.craxic.akebifree) -
   I'm sure there are plenty of good Japanese dictionaries on Android but this
   one is pretty good and you can launch it from the context menu after
   highlighting text to quickly look up words.
@@ -138,3 +140,5 @@ General thoughts about goals:
   mark of learning Japanese for me), it would be good to be as proficient with
   my reading, listening and speaking as possible. I'm most concerned about the
   speaking part.
+
+*Next update: 3 Months (TBD, no link yet)*
