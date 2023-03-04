@@ -34,10 +34,9 @@ These things have helped a lot:
   between desktop and mobile and do them wherever I want is awesome.
 * Anki Review Heatmap extension - If nothing else this thing really makes me
   want to not break my streak of doing reviews every day. It also gives me a
-  good summary of how many cards I'm looking at every day. I like the "Ice"
-  colour scheme (pictured is "Lime").
+  good summary of how many cards I'm looking at every day.
   
-![Heatmap](https://raw.githubusercontent.com/glutanimate/review-heatmap/main/screenshots/review-heatmap-1.png)
+![Heatmap](images/anki_streak_day30.png)
 
 * [Yomichan browser extension](https://addons.mozilla.org/en-US/firefox/addon/yomichan/) - 
   great for looking up unknown words at a glance by just holding Shift and
