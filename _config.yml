@@ -4,7 +4,7 @@ description: Hugh Braico's blog
 
 permalink: /:slug
 
-favicon: "./sweet.png" # relative path to site's favicon
+favicon: "/images/sweet.png" # relative path to site's favicon
 
 theme_config:
   appearance: "dark"
@@ -31,5 +31,4 @@ sass:
   style: :compressed
 
 plugins:
-  - jekyll-feed
-  - jekyll-soopr-seo-tag
+  - jekyll-seo-tag
