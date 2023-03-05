@@ -1,13 +1,12 @@
 remote_theme: abhinavs/moonwalk
 title: Hugh Braico's blog
-description: Hugh Braico's blog
 
 permalink: /:slug
 
 theme_config:
   appearance: "dark"
   appearance_toggle: false
-  back_home_text: "Home" # customize text for homepage link in post layout
+  back_home_text: "Go back home" # customize text for homepage link in post layout
   date_format: "%Y-%m-%d" # customize how date is formatted
   show_description: false # show blog description
   show_navbar: true # show horizontal navbar
@@ -16,7 +15,7 @@ theme_config:
   show_blog: true # show blog posts added in _posts
   show_old_projects: false
   show_misc_list: false # show generic vertical list for misc details, add _data/home.yml
-  show_reading_time: true # show number of words and reading time in the blog posts
+  show_reading_time: false # show number of words and reading time in the blog posts
   show_tags: true # show tags in a blog posts
   # options for "home" page
   home:
@@ -28,5 +27,3 @@ highlighter: rouge
 sass:
   style: :compressed
 
-plugins:
-  - jekyll-seo-tag
