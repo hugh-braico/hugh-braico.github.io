@@ -198,3 +198,5 @@ General thoughts about goals:
   speaking part.
 
 *Next update: 3 Months (TBD, no link yet)*
+
+**[Previous update: Day 0]({% post_url 2023-02-02-learning-jp-day-0 %})**
