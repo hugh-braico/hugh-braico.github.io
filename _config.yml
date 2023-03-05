@@ -4,8 +4,6 @@ description: Hugh Braico's blog
 
 permalink: /:slug
 
-favicon: "/images/sweet.png" # relative path to site's favicon
-
 theme_config:
   appearance: "dark"
   appearance_toggle: false
