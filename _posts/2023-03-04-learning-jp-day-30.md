@@ -66,8 +66,7 @@ These things have helped a lot:
   entertaining even though I'm sometimes not sure what's going on. ペンギン is my
   favourite character.
 * I'm picking out some words, kanji, and grammar structures out of most lines,
-  and sometimes understanding entire sentences (mostly very simple ones,
-  like 「何それ？」).
+  and sometimes understanding entire sentences (mostly very simple ones).
 * The meaning of most long sentences is totally lost on me, though.
 * I feel like I'm probably getting a better feel for hearing where words start
   and end, and literally knowing more Japanese words is helping with that as
@@ -77,29 +76,86 @@ These things have helped a lot:
   be sure that they're even loaned from English. One of the only words I looked
   up was バイト (part-time job), which is from the *German* "arbeit"... I spent
   almost a whole episode wondering why the characters were talking about biting
-  things, and it actually decreased my overall comprehension.
+  things... 😢
 
-### Next steps for immersion
+### Immersion strategy/philosophy
 
 * Like I mentioned in the first post, once I have a stronger base of grammar and
-  vocab I'll start to pause and pick apart every line. 
-* I've rounded up a shortlist of anime/manga to watch/read in Japanese, mostly
-  slice of life stuff.
+  vocab I'll start to do "intensive" or "studious" immersion, where I pause and
+  pick apart every line.
+* From what I've read, when doing "intensive" immersion, speed is more important
+  than understanding every line to the absolute best of your ability. That is
+  to say, understand the general idea behind the sentence if you can, but if
+  there is some unusual grammar structure or nuanced use of vocabulary you
+  don't understand, it's better to simply move on rather than dwell on it.
+  While I was initially surprised, I agree with that logic. The reasons for
+  this are:
+  * If the parts you're not understanding are actually important (ie. frequently
+    used), then they will come up again anyway, and you'll have another chance
+    to learn the meaning.
+  * Going quickly helps you literally absorb *more of the language* per unit of
+    time.
+  * Going quickly is simply more fun than getting bogged down in specifics,
+    which helps with motivation to continue learning. If it isn't fun then you
+    won't want to do it next time, and there's no Japanese Immersion Heatmap
+    plugin with a streak you really don't want to break (but maybe there should
+    be...)
+  * Going quickly helps keep up your "flow state" when consuming the media. This
+    helps you follow the plot and context, thereby boosting your comprehension
+    of the media. If you just spent 25 minutes looking up some obscure grammar
+    structure, you probably forgot a bunch of details about what's actually
+    going on in the story.
+
+### Some stuff I might want to immerse with
+
+* Some anime that are on Animelon that I'm interested in watching:
+  * Nichijou
+  * Haikyuu!!
+  * FMA Brotherhood
+  * Samurai Champloo
+* These anime aren't on Animelon and I don't know where to get them with
+  Japanese subtitles, so they might be a later-down-the-line goal for
+  audio-only practice:
+  * Tamako Market
+  * Cowboy Bebop (I've already watched this with English subs before)
+  * A rewatch of a bunch of the Ghibli movies
+  * Definitely more, I just haven't given it enough thought yet
+* Some manga I'd like to give a try:
+  * Yotsubato!
+  * Spy x Family
+  * Original Dragonball
+  * Like the above, definitely more, just need to think about it some more.
 * Some video games I've been thinking about playing in Japanese:
-  * Animal Crossing might be fun. After playing quite a lot of the original game
-    on GameCube I've always felt it was a bit of a time waster, but I think
-    it's a much better time-value proposition if it comes with a side dish of
-    language practice.
-  * Ghost Trick has simple vocab and is apparently a cool game that I'd probably
-    enjoy.
-  * Persona 4? I dunno, the story part seems appealing enough but I think the
-    JRPG combat is going to kill it for me.
+  * Dark Souls 1 is my favourite video game of all time, and while it doesn't
+    have much dialogue there is a lot of reading to do. Would definitely try a
+    Japanese playthrough where I read every item description and such.
+  * After playing quite a lot of the original Animal Crossing on GameCube, I've
+    always felt the series was a bit of a time waster, but I think it's a much
+    better time-value proposition if it comes with a side dish of language
+    practice. Might try the new one on Nintendo Switch.
+  * Ghost Trick has simple vocab and is apparently a cool little game that I'd
+    probably enjoy. I have a friend who would be very happy to know that I
+    tried it.
+  * Persona 4 is a common recommendation for Japanese language learners. I
+    dunno, the story part seems appealing enough but I hope the JRPG combat
+    doesn't kill it for me...
   * Yakuza 0 might be fun.
   * Metal Gear Solid 1 would be a really interesting game to tackle in Japanese
     just because of how infamously different the English dub is.
-  * I haven't found many other video games that I'd be interested in playing in
-    Japanese - I'm not much of a VN or JRPG guy which is really unfortunate.
-    Not a Pokemon or Final Fantasy fan, either.
+  * Chrono Trigger is a game that I love that is dialogue-heavy, and it
+    apparently has a
+    [transcript available in Japanese online](https://kwhazit.ucoz.net/trans/ct/index.html)
+    so you can look up words with Yomichan, so that's appealing.
+    * I originally played it on SNES, but I think the Steam version is worth
+      playing now since they added the option to turn off the ugly filtering.
+  * Ni No Kuni is apparently a very approachable game that seems cute.
+  * The Witcher 3 has full Japanese dub AND subs, but I don't think it's
+    press-to-continue style dialogue, so it might be difficult.
+
+I found something called [Game2Text](https://game2text.com/) which is like a
+collection of utilities for helping to parse dialogue while playing video games
+in Japanese, which will make things a bit smoother on PC. Definitely going to
+make use of this where I can.
 
 ## Mentality
 
