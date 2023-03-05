@@ -4,9 +4,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="theme-color" content="#74C0FC" data-react-helmet="true" />
   <meta property="og:image" content="/assets/images/sweet_small.png"  />
-  <meta content="Hugh Braico's blog" property="og:title" />
   {% if page.title %}
-    <meta content="{{ page.title }}" property="og:description" />
+  <meta content="{{ page.title }}" property="og:title" />
+  <meta content="Hugh Braico's blog" property="og:description" />
+  {% else %}
+  <meta content="Hugh Braico's blog" property="og:title" />
   {% endif %}
 
   <title>
