@@ -46,7 +46,7 @@ I have a handful of reasons:
 * JLPT N1 certification looks good on a resume, even though I probably won't use
   it.
  
-## How much Japanese do I know *right now?*
+## How much Japanese do I know right now?
  
 Very little, but still better than starting from completely nothing.
 
@@ -58,7 +58,7 @@ Very little, but still better than starting from completely nothing.
 I knew a little bit more than that in high school, but that was 10+ years ago,
 so...
 
-## *How* will I be learning Japanese?
+## How will I be learning Japanese?
 
 I formed my strategy by reading the 
 [Refold Roadmap](https://refold.la/roadmap/) and the 
