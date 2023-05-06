@@ -197,6 +197,6 @@ General thoughts about goals:
   my reading, listening and speaking as possible. I'm most concerned about the
   speaking part.
 
-*Next update: 3 Months (TBD, no link yet)*
+**[Next update: 3 Months]({% post_url 2023-05-02-learning-jp-3-months %})**
 
 **[Previous update: Day 0]({% post_url 2023-02-02-learning-jp-day-0 %})**
