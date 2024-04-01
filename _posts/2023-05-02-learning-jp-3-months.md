@@ -92,6 +92,6 @@ probably get shorter and shorter as I go.
 * Keep immersing at least a couple times every week (every day is probably more
   than I can manage, unfortunately)
 
-*Next update: 6 Months (TBD, no link yet)*
+**[Next update: 1 Year]({% post_url 2024-04-01-learning-jp-1-year %})**
 
 **[Previous update: 1 Month]({% post_url 2023-03-04-learning-jp-day-30 %})**
